@@ -1,0 +1,10 @@
+# Logs
+logs
+*.log
+
+# dotenv environment variables file
+.env
+
+.idea
+
+.DS_Store
